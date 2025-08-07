@@ -63,11 +63,7 @@
 
 <br clear="both">
 
-<img align="right" height="126" src="https://media1.tenor.com/m/CpX_cnkbAekAAAAC/penguins-cheese.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=EricFXZ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -79,10 +75,6 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricFXZ/EricFXZ/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricFXZ/EricFXZ/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EricFXZ/EricFXZ/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/EricFXZ/EricFXZ/output/snake.svg" alt="Snake animation" />
 
 ###
