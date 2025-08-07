@@ -68,13 +68,3 @@
 </div>
 
 ###
-
-<h3 align="left">Activity</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EricFXZ/EricFXZ/output/snake.svg" alt="Snake animation" />
-
-###
