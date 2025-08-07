@@ -63,8 +63,6 @@
 
 <br clear="both">
 
-<img align="right" height="192" src="https://media1.tenor.com/m/CpX_cnkbAekAAAAC/penguins-cheese.gif"  />
-
 ###
 
 <div align="left">
