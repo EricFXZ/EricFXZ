@@ -49,12 +49,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/funezbits">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=funezbits&count=4" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <h3 align="left">Achievements</h3>
